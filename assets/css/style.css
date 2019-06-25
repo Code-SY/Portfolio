@@ -1,0 +1,29 @@
+
+p {
+    margin: 1px;
+    color: #777777;
+
+}
+
+
+nav a {
+    float: left;
+    color: black;
+    text-align: center;
+    margin: 20px 1px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    border-right: 1px rgb(85, 83, 83) solid;
+}
+
+
+
+
+
+
+
+
+
+
+
