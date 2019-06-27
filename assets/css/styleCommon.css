@@ -24,18 +24,18 @@ body {
 }
 @-webkit-keyframes mymove {
     from {
-        color: red;
+        color: green;
     }
     to {
-        color: blue;
+        color: darkblue;
     }
 }
 @keyframes mymove {
     from {
-        color: red;
+        color: green;
     }
     to {
-        color: blue;
+        color: darkblue;
     }
 }
 
