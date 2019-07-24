@@ -1,15 +1,16 @@
 form {
-    background-color: white;
-    height: 100%;
-    padding: 20px;
+    background-color: rgba(191, 236, 179, 0.77);
+    height: 50%;
+    padding: 30px;
     line-height: 1.5em;
     border: 1px #dddddd solid;
-    color: #2b615e;
+    color: #17524e;
 }
 
 form {
     margin: 1px;
-    color: #777777;
+    color: #0a4226e0;
+    
 }
 
 
