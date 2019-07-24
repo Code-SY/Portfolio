@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #ade0d1c7;
+    background-color: #85b977c7;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
 }
 
@@ -17,7 +17,7 @@ body {
     font-size: 2em;
     font-weight: bold;
     color: #ffffff;
-    background-color: #42a017f3;
+    background-color: #2a7408a5;
     font-family: Georgia, Times, "Times New Roman", serif;
     -webkit-animation: mymove 3s infinite;
     animation: mymove 3s infinite;
@@ -43,7 +43,7 @@ body {
 
 nav a {
     float: left;
-    color: black;
+    color: rgba(18, 88, 16, 0.797);
     text-align: center;
     margin: 20px 1px;
     padding-right: 10px;
@@ -53,7 +53,7 @@ nav a {
 }
 
 a.navigationCurrent {
-    color: #2c9617!important;
+    color: #073d09!important;
     font-size: 1.2em;
     font-weight: bold !important;
     cursor: default;
@@ -64,8 +64,9 @@ a.navigationLast {
 }
 
 #content {
-    background-image: url("https://www.teamunify.com/css/pro/cust_stock_bg/twist_green.jpg");
-    /* https://cf.ltkcdn.net/web-design/images/orig/204538-2261x1326-HTML.jpg*/
+    background-image: url("http://www.xda-developers.com/wp-content/uploads/2012/03/Code.jpeg");
+    background-blend-mode: soft-light;
+   
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -74,7 +75,7 @@ a.navigationLast {
     padding: 20px;
     line-height: 1.5em;
     border: 1px #dddddd solid;
-    color: #157422;
+    color: #066913d7;
 }
 
 #footer {
@@ -82,7 +83,7 @@ a.navigationLast {
     border-top: 4px #206612 solid;
     font-size: 1em;
     padding: 0.7em;
-    color: #206612;
+    color: #228f0c;
     text-align: center;
     text-anchor: middle;
     position: fixed;
@@ -103,11 +104,11 @@ a.navigationLast {
     border-left: 1px solid #666666;
 }
 #submit {
-    background: #3bbe21;
+    background: #279611;
 }
 
 #footer a:hover {
-    color: #206612;
+    color: #259c0d;
 }
 
 #footer .footer-links {

@@ -4,7 +4,7 @@ form {
     padding: 20px;
     line-height: 1.5em;
     border: 1px #dddddd solid;
-    color: #4aaaa5;
+    color: #2b615e;
 }
 
 form {
@@ -14,7 +14,7 @@ form {
 
 
 input[type=submit] {
-    background-color: #4aaaa5;
+    background-color: #224e4c;
     color: white;
     padding: 10px 20px;
 }
