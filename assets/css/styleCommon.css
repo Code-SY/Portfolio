@@ -64,7 +64,8 @@ a.navigationLast {
 }
 
 #content {
-    background-image: url("http://www.xda-developers.com/wp-content/uploads/2012/03/Code.jpeg");
+    /*background-image: url("http://www.xda-developers.com/wp-content/uploads/2012/03/Code.jpeg");*/
+    background-color: #3a8219a5;
     background-blend-mode: soft-light;
    
     background-size:cover;
